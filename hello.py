@@ -3,7 +3,7 @@ def more_hello():
 
 
 def more_bye():
-git    return "Bye"
+    return "Bye"
 
 
 # Non sense code (for lint)
